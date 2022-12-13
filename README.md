@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azharsquared , working as a dev.
 - 👀 I’m interested in anything technicahal :) 
-- 🌱 I’m currently working with java and react. in my freetime i also builds apops using flutter.
+- 🌱 I’m currently working with java and react. in my freetime i also builds apps for myself :) .
 
 
 <!---
