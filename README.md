@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azharsquared , working as a dev.
+- 👋 Hi, I’m @azharsquared .
 - 👀 I’m interested in (almost) anything technical :). 
 - 🌱 I’m currently working using java (spring) and js (react).i also builds apps for myself (in flutter) when im bored.
 
